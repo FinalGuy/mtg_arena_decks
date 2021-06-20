@@ -1,0 +1,21 @@
+Deck
+4 Hunt for Specimens (STX) 73
+7 Forest (STX) 375
+1 Beledros Witherbloom (STX) 163
+13 Swamp (STX) 371
+2 Sedgemoor Witch (STX) 86
+4 Binding the Old Gods (KHM) 206
+4 Bastion of Remembrance (IKO) 73
+4 Eyetwitch (STX) 70
+4 Village Rites (KHM) 117
+4 Witherbloom Apprentice (STX) 247
+4 Darkbore Pathway (KHM) 254
+1 Mortality Spear (STX) 207
+4 Serrated Scorpion (IKO) 99
+2 Elderfang Disciple (KHM) 93
+2 Call of the Death-Dweller (IKO) 78
+
+Sideboard
+4 Pest Summoning (STX) 211
+1 Containment Breach (STX) 125
+2 Necrotic Fumes (STX) 78
