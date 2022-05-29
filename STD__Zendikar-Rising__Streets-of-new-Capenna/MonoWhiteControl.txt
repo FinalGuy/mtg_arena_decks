@@ -1,0 +1,24 @@
+Deck
+3 Devastating Mastery (STX) 14
+1 Legion Angel (ZNR) 23
+16 Plains (AFR) 265
+2 Cave of the Frost Dragon (AFR) 253
+4 Starnheim Unleashed (KHM) 33
+4 Professor of Symbology (STX) 24
+2 Lantern of the Lost (VOW) 259
+4 Expel (STX) 18
+3 Pilgrim of the Ages (STX) 22
+1 Farewell (NEO) 13
+4 Revitalize (STA) 9
+2 Potion of Healing (AFR) 34
+4 Doomskar (KHM) 9
+2 Emeria's Call (ZNR) 12
+2 Crawling Barrens (ZNR) 262
+2 Field of Ruin (THB) 242
+4 Inspiring Overseer (SNC) 18
+
+Sideboard
+1 Environmental Sciences (STX) 1
+1 Mascot Exhibition (STX) 5
+2 Reduce to Memory (STX) 25
+3 Legion Angel (ZNR) 23
