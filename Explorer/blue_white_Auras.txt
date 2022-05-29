@@ -1,5 +1,5 @@
 Deck
-3 Slip Out the Back (SNC) 62
+4 Slip Out the Back (SNC) 62
 2 Rune of Sustenance (KHM) 25
 2 Karametra's Blessing (THB) 26
 3 All That Glitters (ELD) 2
@@ -7,22 +7,24 @@ Deck
 3 Staggering Insight (THB) 228
 2 Cartouche of Solidarity (AKR) 8
 4 Sentinel's Eyes (THB) 36
-2 Fly (AFR) 59
 3 Curious Obsession (JMP) 148
 2 Witness Protection (SNC) 66
 2 Light-Paws, Emperor's Voice (NEO) 25
 1 Michiko's Reign of Truth (NEO) 29
 4 Stormchaser Drake (VOW) 82
-3 Selfless Savior (M21) 36
+4 Selfless Savior (M21) 36
 5 Island (SNC) 265
-6 Plains (SNC) 263
+5 Plains (SNC) 263
 4 Hengegate Pathway (KHM) 260
 2 Hallowed Fountain (RNA) 251
 4 Deserted Beach (MID) 260
-1 Opt (STA) 19
+2 Faithful Mending (MID) 221
 
 Sideboard
 1 Arcane Flight (DAR) 43
 1 Pacifism (ANB) 16
 1 The Wandering Emperor (NEO) 42
 1 Jace, Mirror Mage (ZNR) 63
+1 Fly (AFR) 59
+1 Faithful Mending (MID) 221
+1 Thirst for Discovery (VOW) 85
