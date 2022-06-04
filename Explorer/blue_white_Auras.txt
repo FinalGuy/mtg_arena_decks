@@ -14,10 +14,10 @@ Deck
 4 Stormchaser Drake (VOW) 82
 4 Selfless Savior (M21) 36
 5 Island (SNC) 265
-5 Plains (SNC) 263
+6 Plains (SNC) 263
 4 Hengegate Pathway (KHM) 260
-2 Hallowed Fountain (RNA) 251
-4 Deserted Beach (MID) 260
+4 Hallowed Fountain (RNA) 251
+1 Temple of Enlightenment (THB) 246
 2 Faithful Mending (MID) 221
 
 Sideboard
