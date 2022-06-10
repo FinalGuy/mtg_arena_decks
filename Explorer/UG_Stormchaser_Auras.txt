@@ -1,0 +1,26 @@
+Deck
+4 Slip Out the Back (SNC) 62
+5 Forest (KHM) 398
+2 Botanical Sanctum (KLR) 281
+2 An Offer You Can't Refuse (SNC) 51
+2 Security Bypass (SNC) 59
+4 Vineglimmer Snarl (STX) 274
+2 Generous Visitor (NEO) 185
+4 Barkchannel Pathway (KHM) 251
+1 Eutropia the Twice-Favored (THB) 216
+3 Curious Obsession (JMP) 148
+1 Setessan Champion (THB) 198
+4 Llanowar Elves (DAR) 168
+4 Stormchaser Drake (VOW) 82
+2 Temple of Mystery (M21) 254
+5 Island (SNC) 265
+4 Snakeskin Veil (STA) 57
+3 Sixth Sense (AKR) 220
+2 Shadowspear (THB) 236
+3 Rune of Might (KHM) 191
+3 Cartouche of Knowledge (AKR) 51
+
+Sideboard
+1 Arcane Flight (DAR) 43
+1 Witness Protection (SNC) 66
+1 Jace, Mirror Mage (ZNR) 63
