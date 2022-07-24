@@ -1,0 +1,33 @@
+Deck
+4 Abiding Grace (MH2) 1
+8 Swamp (HBG) 300
+2 Eyetwitch (STX) 70
+6 Plains (HBG) 292
+1 Thieves' Guild Enforcer (M21) 125
+3 Dockside Chef (NEO) 93
+3 Archfiend's Vessel (M21) 88
+4 Shineshadow Snarl (STX) 272
+2 Serrated Scorpion (IKO) 99
+2 Shambling Ghast (AFR) 119
+1 Speaker of the Heavens (M21) 38
+4 Brightclimb Pathway (ZNR) 259
+1 Giant Killer (ELD) 14
+4 Village Rites (STA) 35
+2 Patch Up (SNC) 23
+2 Cursebound Witch (Y22) 24
+1 Concealing Curtains (VOW) 101
+1 Dreadmalkin (WAR) 87
+2 Day of Judgment (STA) 2
+2 Farewell (NEO) 13
+2 Great Hall of Starnheim (KHM) 259
+1 Pilfering Imp (GRN) 81
+1 Vampire of the Dire Moon (M20) 120
+1 Festering Mummy (AKR) 105
+
+Sideboard
+2 Inkling Summoning (STX) 195
+1 Mascot Exhibition (STX) 5
+1 Introduction to Annihilation (STX) 3
+1 Introduction to Prophecy (STX) 4
+1 Necrotic Fumes (STX) 78
+1 Reduce to Memory (STX) 25
